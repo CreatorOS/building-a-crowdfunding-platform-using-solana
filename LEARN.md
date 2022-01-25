@@ -262,7 +262,7 @@ So your entire file would look like this:
 
 [https://gist.github.com/madhavanmalolan/b30b47640449f92ea00e4075d63460a6](https://gist.github.com/madhavanmalolan/b30b47640449f92ea00e4075d63460a6)
 
-## Subquest: Up next
+## Up next
 
 We’ve now seen how to write some code in solana.
 
